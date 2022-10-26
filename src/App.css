@@ -19,7 +19,7 @@ li {
 }
 .Grid {
   display: grid;
-  grid-template-columns: auto auto auto auto auto;
+  grid-template-columns: auto auto auto auto;
 }
 .card {
   margin: 2rem;
